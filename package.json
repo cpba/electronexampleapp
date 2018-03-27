@@ -2,7 +2,7 @@
   "name": "activity-monitor",
   "version": "1.0.0",
   "description": "CPU activity monitor",
-  "repository": "electron/simple-samples",
+  "repository": "electronexampleapp",
   "main": "app.js",
   "scripts": {
     "start": "electron app.js"
